@@ -1,2 +1,2 @@
 # vectorscope_Javascript
-vectorscope video 
+simple vectorscope in javascript 
